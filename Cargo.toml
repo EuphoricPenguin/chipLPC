@@ -1,0 +1,20 @@
+[package]
+name = "chipLPC"
+version = "0.1.0"
+edition = "2021"
+authors = ["EuphoricPenguin"]
+
+[dependencies]
+nih_plug = { git = "https://github.com/EuphoricPenguin/nih-plug-vst3", features = ["vst3"] }
+nih_plug_egui = { git = "https://github.com/EuphoricPenguin/nih-plug-vst3" }
+egui = "0.31"
+egui_extras = { version = "0.31", features = ["all_loaders"] }
+image = { version = "0.25", features = ["png"] }
+
+[lib]
+name = "chip_lpc"
+crate-type = ["cdylib", "rlib"]
+
+[profile.release]
+opt-level = 3
+lto = true

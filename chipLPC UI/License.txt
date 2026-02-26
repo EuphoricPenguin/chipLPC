@@ -1,0 +1,11 @@
+Everything in this folder is available under the CC0 license (https://creativecommons.org/publicdomain/zero/1.0/deed.en).
+
+Original knob reference photos by me.
+
+CC0/public domain source imagery used:
+https://commons.wikimedia.org/wiki/File:Aupcb.jpg
+https://commons.wikimedia.org/wiki/File:ScrewSet001_PREVIEW.jpg
+https://commons.wikimedia.org/wiki/File:Brushed_aluminum_gloss.tif
+https://commons.wikimedia.org/wiki/File:Revox_B215_-_Dolby_PCB_-_as-is_-_HA12058_02.jpg
+
+I use a mix of free and proprietary fonts. Rasterized representations of both free and proprietrary fonts are in the public domain. (https://en.wikipedia.org/wiki/Wikipedia:Public_domain#Fonts_and_typefaces)
