@@ -143,7 +143,7 @@ impl Default for LpcPlugin {
 
 impl Plugin for LpcPlugin {
     const NAME: &'static str = "chip_lpc";
-    const VENDOR: &'static str = "EupgoricPenguin";
+    const VENDOR: &'static str = "EuphoricPenguin";
     const URL: &'static str = "https://penguin.house";
     const EMAIL: &'static str = "euphoricpenguin@protonmail.com";
     const VERSION: &'static str = "0.1.0";
