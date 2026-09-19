@@ -27,7 +27,7 @@ The default values should yield a gritty retro sound, but this plugin can yield 
 
 The [Releases](https://github.com/EuphoricPenguin/chipLPC/releases) page has binaries built for Windows, but you should be able to build the source for other platforms.
 
-If you're using a DAW like [LMMS](lmms.io) that lacks VST3 support, you can use [Element](https://github.com/kushview/element/releases) to host VST3 plugins.
+If you're using a DAW like [LMMS](https://lmms.io/) that lacks VST3 support, you can use [Element](https://github.com/kushview/element/releases) to host VST3 plugins.
 
 After installing Rustup, Rust, and the correct toolchain for your platform, running `cargo build` should produce a usable binary.
 
